@@ -1,10 +1,10 @@
-description: Open-source starter for building your own AI agent framework and agent team on Kortix, the open-source AI Operating System.
+description: Open-source starter for building your own AI agent framework and agent team on Kortix, the open-source CompanyOS.
 
-# A runnable agent-framework starter on Kortix, the open-source AI Operating System
+# A runnable agent-framework starter on Kortix, the open-source CompanyOS
 
-This repository is a runnable starter for building an AI agent framework and an agent team on Kortix, the open-source AI Operating System you own. It walks through the project scaffold, one agent, a skill folder, a cron trigger, and the commands that take the project from your machine to a cloud that runs the agents.
+This repository is a runnable starter for building an AI agent framework and an agent team on Kortix, the open-source CompanyOS you own. It walks through the project scaffold, one agent, a skill folder, a cron trigger, and the commands that take the project from your machine to a cloud that runs the agents.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers.
 
 The companion guide for this starter is [opensourceaiagentframework.com](https://opensourceaiagentframework.com/).
 
@@ -20,7 +20,7 @@ The starter project is a git repository. `kortix init` writes it, and it holds:
 
 ## What you own
 
-Kortix is the open-source AI Operating System you own. One git repo holds your agents, the skills they share, your company memory, and every connector. You can read the code, fork it, and audit it.
+Kortix is the open-source CompanyOS you own. One git repo holds your agents, the skills they share, your company memory, and every connector. You can read the code, fork it, and audit it.
 
 Every session runs on its own cloud computer, on its own branch, and lands its work through a change request a person reviews. Any model provider with your own keys, or the ChatGPT plan you already pay for. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free.
 
