@@ -62,7 +62,7 @@ Prefer no setup? Create a project at [Kortix](https://kortix.com) and start a se
 - [Agents and skills](docs/agents-and-skills.md)
 - [Running agents in the cloud](docs/running-agents-in-the-cloud.md)
 - [Kortix FAQ](docs/faq.md)
-- [Kortix on GitHub](https://github.com/kortix-ai/suna) and the [Kortix docs](https://kortix.com/docs)
+- [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) and the [Kortix docs](https://kortix.com/docs)
 
 
 ## Guides on the companion site
